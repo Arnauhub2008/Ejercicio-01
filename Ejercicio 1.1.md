@@ -18,7 +18,8 @@ Usa el comando `cd`
 2. Galletas
 - Cacaguetes
 - Patatas
-
+> Sueca
+> Tavernes de la Valldigna
 
 
 
